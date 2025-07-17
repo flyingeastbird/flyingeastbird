@@ -1,7 +1,7 @@
 # 프로필 꾸미기는 못 참지
 ## 안녕하세요 김태훈입니다.
-### 이건 링크 실험입니다.
-[어제 배운 링크]("C:\Users\SSAFY\Downloads\proimg.jpeg")
+### 이건 프로필 실험입니다.
+
 
 <!--
 **flyingeastbird/flyingeastbird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
