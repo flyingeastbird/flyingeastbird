@@ -1,4 +1,7 @@
-## Hi there 👋
+# 프로필 꾸미기는 못 참지
+## 안녕하세요 김태훈입니다.
+### 이건 링크 실험입니다.
+[어디로갈까요](www.naver.com)
 
 <!--
 **flyingeastbird/flyingeastbird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +17,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## 이게 내 프로필이라고?
-## 프꾸는 못참지
-## 바로 진행해
-## My name is TaeHun
