@@ -1,7 +1,7 @@
 # 프로필 꾸미기는 못 참지
 ## 안녕하세요 김태훈입니다.
 ### 이건 링크 실험입니다.
-[어디로갈까요](www.naver.com)
+[어제 배운 링크](https://school.programmers.co.kr/learn/challenges?order=recent&page=1&partIds=37527&gad_source=1&gad_campaignid=22199869887&gbraid=0AAAAAC_c4nC4vK9u1SQfoEhJoODwCkF5k&gclid=Cj0KCQjw-NfDBhDyARIsAD-ILeDLSrtbi8q_qgg8o3mdTRK9dz0gYlPwihsinOaUkcDq-xsBfV9dRz0aAnCQEALw_wcB)
 
 <!--
 **flyingeastbird/flyingeastbird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
