@@ -1,7 +1,9 @@
 # 프로필 꾸미기는 못 참지
 ## 안녕하세요 김태훈입니다.
 ### 이건 프로필 실험입니다.
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/username/username/main/asset/proimg.png" alt="Welcome Banner" />
+</p>
 
 <!--
 **flyingeastbird/flyingeastbird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
