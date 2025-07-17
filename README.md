@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 이게 내 프로필이라고?
+## 프꾸는 못참지
+## 바로 진행해
+## My name is TaeHun
