@@ -2,7 +2,7 @@
 ## 안녕하세요 김태훈입니다.
 ### 이건 프로필 실험입니다.
 <p align="center">
-  <img src="asset" alt="Welcome Banner" />
+  <img src="asset/proimg.jpeg" alt="Welcome Banner" />
 </p>
 
 <!--
